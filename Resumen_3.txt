@@ -1,0 +1,3 @@
+Unidad III:
+
+En esta unidad hablamos del controlador de versiones "GIT" que nos facilita ver los cambios en el codigo principal durante el desarrollo de un proyecto. Nos ayuda a trabajar en "branches" distintas, combinar los cambios y tambien volver a versiones anteriores. Todo esto con un protocolo de verificacion alto para priorizar la seguridad del proyecto.

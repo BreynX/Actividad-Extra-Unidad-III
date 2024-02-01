@@ -1,0 +1,3 @@
+Unidad II:
+
+Lo que mas me llamo la atencion en esta unidad fueron el tema de las variables y los tipos de datos junto con los operadores. Las variables funcionan como "contenedores" que almacenan datos que a la vez se clasifican en varios tipos. Los tipos de datos definen que tipo de informacion puede contener una variable. Por otra parte, los operadores son los que hacen los procesos sobre las variables. Estoos son temas que conforman la base de la programacion a mi parecer.
